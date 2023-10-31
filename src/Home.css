@@ -1,0 +1,142 @@
+.reg{
+    background-color: #cc66a0; 
+
+    height: 60px;
+    padding : 20px;
+    color : white;
+    position: absolute;
+  top: 13%;
+  right: 0%;
+  width: 100%;
+  font-size: 7px;
+  font-family: Open Sans,sans-serif;
+  float : left;
+
+
+}
+
+p{
+    font-size: 15px;
+}
+.register{
+    font-size: 14px;
+    color: #a8e2f7;
+    text-decoration: none;
+}
+
+.register:hover
+{
+    color : #fdcd0a;
+    text-decoration: underline;
+}
+
+p{
+    font-family: Open Sans,sans-serif;
+    font-size: 1rem;
+}
+
+h2
+{
+    font-size: 1.75rem;
+}
+
+.but
+{
+  background-color : #8e44ad;
+  border-color: white;
+  border-radius: 0.5rem;
+  color : white;
+  height : 50px;
+  width : 130px;
+}
+
+.but:hover
+{
+  background-color : #cc66a0;
+}
+.arrow
+{
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.down
+{
+
+  -webkit-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.ad {
+    color : #cc66a0;
+    font-family: Open Sans,sans-serif;
+    font-size: 1rem;
+
+
+}
+.ad:hover{
+    color : blue;
+    
+}
+
+.brand
+{
+    width : 120px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.row .col { 
+    height: 100%; 
+} 
+
+.customer
+{
+    background-color: #f4f6f9;;
+}
+
+.add
+{
+    font-family: Work Sans Bold,sans-serif;
+}
+
+.num{
+    
+    font-size: 110px;
+    line-height: 95px;
+}
+
+.bord
+{
+    color : #303273;
+}
+
+.Badge
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding :0%;
+    margin: 0%;
+}
+
+.foo{
+    font-family: Open Sans Bold,sans-serif;
+    font-size: .90em;
+    font-weight: 700;
+}
+
+
+.foot
+{
+    font-family: Open Sans Light,sans-serif;
+    font-weight: 300;
+    text-decoration: none;
+    font-size: .70em;
+}
+
+.foot:hover{
+    text-decoration: underline;
+}
